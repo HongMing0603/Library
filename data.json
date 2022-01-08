@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "三國演義",
+        "author": "羅貫中",
+        "category": "文學",
+        "desc": "一個紛爭的年代",
+        "_locals": {}
+    },
+    {
+        "id": "2",
+        "name": "水滸傳",
+        "author": "施耐庵",
+        "category": "文學",
+        "desc": "108條好漢的故事"
+    },
+    {
+        "id": "3",
+        "name": "西遊記",
+        "author": "吳承恩",
+        "category": "文學",
+        "desc": "佛教與道教的鬥爭"
+    },
+    {
+        "id": "4",
+        "name": "紅樓夢",
+        "author": "曹雪芹",
+        "category": "文學",
+        "desc": "一個封建王朝的縮影"
+    },
+    {
+        "name": "浪潮之巔",
+        "author": "吳軍",
+        "category": "計算機",
+        "desc": "程式興衰史",
+        "id": "5",
+        "_locals": {}
+    },
+    {
+        "name": "fffwe",
+        "author": "efwwef",
+        "category": "afawfw",
+        "desc": "qwfwfwq",
+        "id": 6
+    }
+]
